@@ -1,13 +1,15 @@
 # POS UMKM - Point of Sale untuk Usaha Mikro Kecil Menengah
 
-[![Laravel](https://img.shields.io/badge/Laravel-12-red.svg)](https://laravel.com) 
-[![PHP](https://img.shields.io/badge/PHP-8.2+-blue.svg)](https://php.net) 
-[![MySQL](https://img.shields.io/badge/MySQL-8.0+-orange.svg)](https://mysql.com) 
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.0+-blue.svg)](https://tailwindcss.com) 
-[![Alpine.js](https://img.shields.io/badge/Alpine.js-3.x-green.svg)](https://alpinejs.dev) 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) 
-[![GitHub issues](https://img.shields.io/github/issues/muris11/Pos-UMKM-Laravel-12)](https://github.com/muris11/Pos-UMKM-Laravel-12/issues) 
+[![Laravel](https://img.shields.io/badge/Laravel-12-red.svg)](https://laravel.com)
+[![PHP](https://img.shields.io/badge/PHP-8.2+-blue.svg)](https://php.net)
+[![MySQL](https://img.shields.io/badge/MySQL-8.0+-orange.svg)](https://mysql.com)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.0+-blue.svg)](https://tailwindcss.com)
+[![Alpine.js](https://img.shields.io/badge/Alpine.js-3.x-green.svg)](https://alpinejs.dev)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/muris11/Pos-UMKM-Laravel-12)](https://github.com/muris11/Pos-UMKM-Laravel-12/issues)
 [![GitHub stars](https://img.shields.io/github/stars/muris11/Pos-UMKM-Laravel-12)](https://github.com/muris11/Pos-UMKM-Laravel-12/stargazers)
+
+<br>
 
 Sistem Point of Sale (POS) modern yang dirancang khusus untuk membantu Usaha Mikro Kecil Menengah (UMKM) mengelola bisnis mereka dengan lebih efisien. Dibangun dengan Laravel 12, Tailwind CSS, dan Alpine.js untuk pengalaman pengguna yang luar biasa.
 
