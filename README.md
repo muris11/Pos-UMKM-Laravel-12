@@ -1,12 +1,12 @@
 # POS UMKM - Point of Sale untuk Usaha Mikro Kecil Menengah
 
-[![Laravel](https://img.shields.io/badge/Laravel-12-red.svg)](https://laravel.com)
-[![PHP](https://img.shields.io/badge/PHP-8.2+-blue.svg)](https://php.net)
-[![MySQL](https://img.shields.io/badge/MySQL-8.0+-orange.svg)](https://mysql.com)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.0+-blue.svg)](https://tailwindcss.com)
-[![Alpine.js](https://img.shields.io/badge/Alpine.js-3.x-green.svg)](https://alpinejs.dev)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/muris11/Pos-UMKM-Laravel-12)](https://github.com/muris11/Pos-UMKM-Laravel-12/issues)
+[![Laravel](https://img.shields.io/badge/Laravel-12-red.svg)](https://laravel.com) 
+[![PHP](https://img.shields.io/badge/PHP-8.2+-blue.svg)](https://php.net) 
+[![MySQL](https://img.shields.io/badge/MySQL-8.0+-orange.svg)](https://mysql.com) 
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.0+-blue.svg)](https://tailwindcss.com) 
+[![Alpine.js](https://img.shields.io/badge/Alpine.js-3.x-green.svg)](https://alpinejs.dev) 
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) 
+[![GitHub issues](https://img.shields.io/github/issues/muris11/Pos-UMKM-Laravel-12)](https://github.com/muris11/Pos-UMKM-Laravel-12/issues) 
 [![GitHub stars](https://img.shields.io/github/stars/muris11/Pos-UMKM-Laravel-12)](https://github.com/muris11/Pos-UMKM-Laravel-12/stargazers)
 
 Sistem Point of Sale (POS) modern yang dirancang khusus untuk membantu Usaha Mikro Kecil Menengah (UMKM) mengelola bisnis mereka dengan lebih efisien. Dibangun dengan Laravel 12, Tailwind CSS, dan Alpine.js untuk pengalaman pengguna yang luar biasa.
@@ -18,135 +18,150 @@ _Screenshots akan ditambahkan setelah deployment_
 ## ✨ Fitur Utama
 
 ### 🏪 **Manajemen Toko**
-- ✅ Multi-store support dengan pengaturan terpisah
-- ✅ Pengaturan toko individual (nama, alamat, kontak)
-- ✅ Manajemen inventori per toko
-- ✅ Transfer stok antar toko
-- ✅ Laporan penjualan per toko
-- ✅ Pengaturan jam operasional
+
+-   ✅ Multi-store support dengan pengaturan terpisah
+-   ✅ Pengaturan toko individual (nama, alamat, kontak)
+-   ✅ Manajemen inventori per toko
+-   ✅ Transfer stok antar toko
+-   ✅ Laporan penjualan per toko
+-   ✅ Pengaturan jam operasional
 
 ### 👥 **Manajemen Pelanggan**
-- ✅ Database pelanggan lengkap dengan informasi detail
-- ✅ Sistem poin loyalitas otomatis
-- ✅ Riwayat pembelian lengkap
-- ✅ Segmentasi pelanggan (VIP, Regular, New)
-- ✅ Program diskon berdasarkan poin
-- ✅ Notifikasi ulang tahun pelanggan
-- ✅ Export data pelanggan
+
+-   ✅ Database pelanggan lengkap dengan informasi detail
+-   ✅ Sistem poin loyalitas otomatis
+-   ✅ Riwayat pembelian lengkap
+-   ✅ Segmentasi pelanggan (VIP, Regular, New)
+-   ✅ Program diskon berdasarkan poin
+-   ✅ Notifikasi ulang tahun pelanggan
+-   ✅ Export data pelanggan
 
 ### 📦 **Manajemen Produk**
-- ✅ Katalog produk lengkap dengan foto
-- ✅ Sistem kategori produk hierarki
-- ✅ Manajemen stok real-time dengan alert
-- ✅ Barcode support (generate & scan)
-- ✅ Variasi produk (ukuran, warna, dll)
-- ✅ Harga grosir dan retail
-- ✅ Produk bundling/paket
-- ✅ Manajemen expired date
+
+-   ✅ Katalog produk lengkap dengan foto
+-   ✅ Sistem kategori produk hierarki
+-   ✅ Manajemen stok real-time dengan alert
+-   ✅ Barcode support (generate & scan)
+-   ✅ Variasi produk (ukuran, warna, dll)
+-   ✅ Harga grosir dan retail
+-   ✅ Produk bundling/paket
+-   ✅ Manajemen expired date
 
 ### 🛒 **Point of Sale (POS)**
-- ✅ Interface kasir yang intuitif dan cepat
-- ✅ Pencarian produk dengan autocomplete
-- ✅ Kalkulasi otomatis pajak & diskon
-- ✅ Multiple payment methods (Cash, Card, Transfer)
-- ✅ Split payment (gabungan metode bayar)
-- ✅ Hold transaction untuk antrian
-- ✅ Receipt printing thermal & PDF
-- ✅ Refund & return management
+
+-   ✅ Interface kasir yang intuitif dan cepat
+-   ✅ Pencarian produk dengan autocomplete
+-   ✅ Kalkulasi otomatis pajak & diskon
+-   ✅ Multiple payment methods (Cash, Card, Transfer)
+-   ✅ Split payment (gabungan metode bayar)
+-   ✅ Hold transaction untuk antrian
+-   ✅ Receipt printing thermal & PDF
+-   ✅ Refund & return management
 
 ### 👨‍💼 **Manajemen Pengguna**
-- ✅ Role-based access control (RBAC)
-- ✅ Tiga level: Owner, Manager, Cashier
-- ✅ User activity logging & audit trail
-- ✅ Secure authentication dengan rate limiting
-- ✅ Password policy & reset
-- ✅ Session management
-- ✅ Two-factor authentication (opsional)
+
+-   ✅ Role-based access control (RBAC)
+-   ✅ Tiga level: Owner, Manager, Cashier
+-   ✅ User activity logging & audit trail
+-   ✅ Secure authentication dengan rate limiting
+-   ✅ Password policy & reset
+-   ✅ Session management
+-   ✅ Two-factor authentication (opsional)
 
 ### 📊 **Analytics & Reporting**
-- ✅ Dashboard real-time dengan metrics utama
-- ✅ Laporan penjualan harian/mingguan/bulanan/tahunan
-- ✅ Analitik produk terlaris & tidak laku
-- ✅ Laporan keuangan (P&L, Cash Flow)
-- ✅ Customer analytics & behavior
-- ✅ Inventory turnover analysis
-- ✅ Export laporan ke PDF/Excel/CSV
-- ✅ Scheduled reports via email
+
+-   ✅ Dashboard real-time dengan metrics utama
+-   ✅ Laporan penjualan harian/mingguan/bulanan/tahunan
+-   ✅ Analitik produk terlaris & tidak laku
+-   ✅ Laporan keuangan (P&L, Cash Flow)
+-   ✅ Customer analytics & behavior
+-   ✅ Inventory turnover analysis
+-   ✅ Export laporan ke PDF/Excel/CSV
+-   ✅ Scheduled reports via email
 
 ### 🎨 **UI/UX Modern**
-- ✅ Dark/Light mode dengan auto-detection
-- ✅ Fully responsive design (Mobile, Tablet, Desktop)
-- ✅ Animasi smooth & micro-interactions
-- ✅ Theme customization dengan preset colors
-- ✅ Mobile-optimized untuk POS tablet
-- ✅ Accessibility compliance (WCAG 2.1)
-- ✅ Multi-language support (ID/EN)
-- ✅ PWA (Progressive Web App) ready
+
+-   ✅ Dark/Light mode dengan auto-detection
+-   ✅ Fully responsive design (Mobile, Tablet, Desktop)
+-   ✅ Animasi smooth & micro-interactions
+-   ✅ Theme customization dengan preset colors
+-   ✅ Mobile-optimized untuk POS tablet
+-   ✅ Accessibility compliance (WCAG 2.1)
+-   ✅ Multi-language support (ID/EN)
+-   ✅ PWA (Progressive Web App) ready
 
 ### 🔧 **Fitur Tambahan**
-- ✅ Backup & restore database otomatis
-- ✅ API RESTful untuk integrasi
-- ✅ Webhook support untuk external services
-- ✅ Queue system untuk performance
-- ✅ Cache optimization
-- ✅ Error logging & monitoring
-- ✅ Maintenance mode
-- ✅ Database optimization tools
+
+-   ✅ Backup & restore database otomatis
+-   ✅ API RESTful untuk integrasi
+-   ✅ Webhook support untuk external services
+-   ✅ Queue system untuk performance
+-   ✅ Cache optimization
+-   ✅ Error logging & monitoring
+-   ✅ Maintenance mode
+-   ✅ Database optimization tools
 
 ## 🛠️ Tech Stack
 
 ### Backend
-- **Laravel 12** - PHP Framework terdepan untuk web applications
-- **MySQL 8.0+** - Database relational dengan performance tinggi
-- **PHP 8.2+** - Server-side scripting dengan JIT compiler
-- **Redis** - Cache & session storage (optional)
+
+-   **Laravel 12** - PHP Framework terdepan untuk web applications
+-   **MySQL 8.0+** - Database relational dengan performance tinggi
+-   **PHP 8.2+** - Server-side scripting dengan JIT compiler
+-   **Redis** - Cache & session storage (optional)
 
 ### Frontend
-- **Tailwind CSS 3.0+** - Utility-first CSS framework
-- **Alpine.js 3.x** - Reactive JavaScript framework
-- **Material Icons** - Icon library dari Google
-- **Chart.js** - Library charting untuk analytics
+
+-   **Tailwind CSS 3.0+** - Utility-first CSS framework
+-   **Alpine.js 3.x** - Reactive JavaScript framework
+-   **Material Icons** - Icon library dari Google
+-   **Chart.js** - Library charting untuk analytics
 
 ### Tools & Libraries
-- **Composer** - PHP dependency manager
-- **NPM/Yarn** - Node.js package manager
-- **Vite** - Next-generation build tool
-- **DomPDF** - PDF generation library
-- **Midtrans** - Payment gateway Indonesia
-- **Laravel Sanctum** - API authentication
-- **Laravel Horizon** - Queue monitoring (optional)
-- **Laravel Telescope** - Debugging & monitoring (dev)
+
+-   **Composer** - PHP dependency manager
+-   **NPM/Yarn** - Node.js package manager
+-   **Vite** - Next-generation build tool
+-   **DomPDF** - PDF generation library
+-   **Midtrans** - Payment gateway Indonesia
+-   **Laravel Sanctum** - API authentication
+-   **Laravel Horizon** - Queue monitoring (optional)
+-   **Laravel Telescope** - Debugging & monitoring (dev)
 
 ## 📋 Prerequisites
 
 Sebelum menjalankan aplikasi ini, pastikan Anda memiliki:
 
-- ✅ **PHP 8.2 atau lebih tinggi** (8.3 recommended)
-- ✅ **Composer 2.x** - PHP dependency manager
-- ✅ **Node.js 18+ & NPM 9+** - JavaScript runtime
-- ✅ **MySQL 8.0+ atau MariaDB 10.6+** - Database server
-- ✅ **Git 2.30+** - Version control
-- ✅ **Web Server** - Apache/Nginx dengan mod_rewrite
+-   ✅ **PHP 8.2 atau lebih tinggi** (8.3 recommended)
+-   ✅ **Composer 2.x** - PHP dependency manager
+-   ✅ **Node.js 18+ & NPM 9+** - JavaScript runtime
+-   ✅ **MySQL 8.0+ atau MariaDB 10.6+** - Database server
+-   ✅ **Git 2.30+** - Version control
+-   ✅ **Web Server** - Apache/Nginx dengan mod_rewrite
 
 ## 🚀 Instalasi & Setup
 
 ### 1. Clone Repository
+
 ```bash
 git clone https://github.com/muris11/Pos-UMKM-Laravel-12.git
 cd Pos-UMKM-Laravel-12
 ```
 
 ### 2. Install PHP Dependencies
+
 ```bash
 composer install --no-dev --optimize-autoloader
 ```
 
 ### 3. Install Node.js Dependencies
+
 ```bash
 npm install --production=false
 ```
 
 ### 4. Environment Setup
+
 ```bash
 # Copy environment file
 cp .env.example .env
@@ -159,6 +174,7 @@ php artisan jwt:secret
 ```
 
 ### 5. Database Setup
+
 ```bash
 # Buat database di MySQL
 mysql -u root -p
@@ -181,6 +197,7 @@ php artisan db:seed
 ```
 
 ### 6. Storage Setup
+
 ```bash
 # Buat symbolic link untuk file uploads
 php artisan storage:link
@@ -191,6 +208,7 @@ chmod -R 755 bootstrap/cache/
 ```
 
 ### 7. Build Assets
+
 ```bash
 # Development
 npm run dev
@@ -203,6 +221,7 @@ npm run watch
 ```
 
 ### 8. Cache Optimization
+
 ```bash
 # Cache konfigurasi untuk performance
 php artisan config:cache
@@ -217,6 +236,7 @@ php artisan view:clear
 ```
 
 ### 9. Jalankan Aplikasi
+
 ```bash
 # Development server
 php artisan serve
@@ -241,6 +261,7 @@ Setelah seeding database, Anda dapat login dengan akun berikut:
 | Cashier | cashier@demo | demo123  | POS, customers, basic reports   |
 
 ### Membuat User Baru
+
 ```bash
 # Via artisan command
 php artisan tinker
@@ -248,6 +269,7 @@ php artisan tinker
 ```
 
 ## 📁 Struktur Project
+
 ```
 pos-umkm/
 ├── app/
@@ -324,6 +346,7 @@ pos-umkm/
 ## 🔧 Konfigurasi
 
 ### Environment Variables (.env)
+
 ```env
 # Application
 APP_NAME="POS UMKM"
