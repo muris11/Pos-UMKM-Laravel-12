@@ -13,153 +13,171 @@ Sistem Point of Sale (POS) modern yang dirancang khusus untuk membantu Usaha Mik
 
 ## 📸 Screenshots
 
-*Screenshots akan ditambahkan setelah deployment*
+_Screenshots akan ditambahkan setelah deployment_
 
 ## ✨ Fitur Utama
 
 ### 🏪 **Manajemen Toko**
-- ✅ Multi-store support dengan pengaturan terpisah
-- ✅ Pengaturan toko individual (nama, alamat, kontak)
-- ✅ Manajemen inventori per toko
-- ✅ Transfer stok antar toko
-- ✅ Laporan penjualan per toko
-- ✅ Pengaturan jam operasional
+
+-   ✅ Multi-store support dengan pengaturan terpisah
+-   ✅ Pengaturan toko individual (nama, alamat, kontak)
+-   ✅ Manajemen inventori per toko
+-   ✅ Transfer stok antar toko
+-   ✅ Laporan penjualan per toko
+-   ✅ Pengaturan jam operasional
 
 ### 👥 **Manajemen Pelanggan**
-- ✅ Database pelanggan lengkap dengan informasi detail
-- ✅ Sistem poin loyalitas otomatis
-- ✅ Riwayat pembelian lengkap
-- ✅ Segmentasi pelanggan (VIP, Regular, New)
-- ✅ Program diskon berdasarkan poin
-- ✅ Notifikasi ulang tahun pelanggan
-- ✅ Export data pelanggan
+
+-   ✅ Database pelanggan lengkap dengan informasi detail
+-   ✅ Sistem poin loyalitas otomatis
+-   ✅ Riwayat pembelian lengkap
+-   ✅ Segmentasi pelanggan (VIP, Regular, New)
+-   ✅ Program diskon berdasarkan poin
+-   ✅ Notifikasi ulang tahun pelanggan
+-   ✅ Export data pelanggan
 
 ### 📦 **Manajemen Produk**
-- ✅ Katalog produk lengkap dengan foto
-- ✅ Sistem kategori produk hierarki
-- ✅ Manajemen stok real-time dengan alert
-- ✅ Barcode support (generate & scan)
-- ✅ Variasi produk (ukuran, warna, dll)
-- ✅ Harga grosir dan retail
-- ✅ Produk bundling/paket
-- ✅ Manajemen expired date
+
+-   ✅ Katalog produk lengkap dengan foto
+-   ✅ Sistem kategori produk hierarki
+-   ✅ Manajemen stok real-time dengan alert
+-   ✅ Barcode support (generate & scan)
+-   ✅ Variasi produk (ukuran, warna, dll)
+-   ✅ Harga grosir dan retail
+-   ✅ Produk bundling/paket
+-   ✅ Manajemen expired date
 
 ### 🛒 **Point of Sale (POS)**
-- ✅ Interface kasir yang intuitif dan cepat
-- ✅ Pencarian produk dengan autocomplete
-- ✅ Kalkulasi otomatis pajak & diskon
-- ✅ Multiple payment methods (Cash, Card, Transfer)
-- ✅ Split payment (gabungan metode bayar)
-- ✅ Hold transaction untuk antrian
-- ✅ Receipt printing thermal & PDF
-- ✅ Refund & return management
+
+-   ✅ Interface kasir yang intuitif dan cepat
+-   ✅ Pencarian produk dengan autocomplete
+-   ✅ Kalkulasi otomatis pajak & diskon
+-   ✅ Multiple payment methods (Cash, Card, Transfer)
+-   ✅ Split payment (gabungan metode bayar)
+-   ✅ Hold transaction untuk antrian
+-   ✅ Receipt printing thermal & PDF
+-   ✅ Refund & return management
 
 ### 👨‍💼 **Manajemen Pengguna**
-- ✅ Role-based access control (RBAC)
-- ✅ Tiga level: Owner, Manager, Cashier
-- ✅ User activity logging & audit trail
-- ✅ Secure authentication dengan rate limiting
-- ✅ Password policy & reset
-- ✅ Session management
-- ✅ Two-factor authentication (opsional)
+
+-   ✅ Role-based access control (RBAC)
+-   ✅ Tiga level: Owner, Manager, Cashier
+-   ✅ User activity logging & audit trail
+-   ✅ Secure authentication dengan rate limiting
+-   ✅ Password policy & reset
+-   ✅ Session management
+-   ✅ Two-factor authentication (opsional)
 
 ### 📊 **Analytics & Reporting**
-- ✅ Dashboard real-time dengan metrics utama
-- ✅ Laporan penjualan harian/mingguan/bulanan/tahunan
-- ✅ Analitik produk terlaris & tidak laku
-- ✅ Laporan keuangan (P&L, Cash Flow)
-- ✅ Customer analytics & behavior
-- ✅ Inventory turnover analysis
-- ✅ Export laporan ke PDF/Excel/CSV
-- ✅ Scheduled reports via email
+
+-   ✅ Dashboard real-time dengan metrics utama
+-   ✅ Laporan penjualan harian/mingguan/bulanan/tahunan
+-   ✅ Analitik produk terlaris & tidak laku
+-   ✅ Laporan keuangan (P&L, Cash Flow)
+-   ✅ Customer analytics & behavior
+-   ✅ Inventory turnover analysis
+-   ✅ Export laporan ke PDF/Excel/CSV
+-   ✅ Scheduled reports via email
 
 ### 🎨 **UI/UX Modern**
-- ✅ Dark/Light mode dengan auto-detection
-- ✅ Fully responsive design (Mobile, Tablet, Desktop)
-- ✅ Animasi smooth & micro-interactions
-- ✅ Theme customization dengan preset colors
-- ✅ Mobile-optimized untuk POS tablet
-- ✅ Accessibility compliance (WCAG 2.1)
-- ✅ Multi-language support (ID/EN)
-- ✅ PWA (Progressive Web App) ready
+
+-   ✅ Dark/Light mode dengan auto-detection
+-   ✅ Fully responsive design (Mobile, Tablet, Desktop)
+-   ✅ Animasi smooth & micro-interactions
+-   ✅ Theme customization dengan preset colors
+-   ✅ Mobile-optimized untuk POS tablet
+-   ✅ Accessibility compliance (WCAG 2.1)
+-   ✅ Multi-language support (ID/EN)
+-   ✅ PWA (Progressive Web App) ready
 
 ### 🔧 **Fitur Tambahan**
-- ✅ Backup & restore database otomatis
-- ✅ API RESTful untuk integrasi
-- ✅ Webhook support untuk external services
-- ✅ Queue system untuk performance
-- ✅ Cache optimization
-- ✅ Error logging & monitoring
-- ✅ Maintenance mode
-- ✅ Database optimization tools
+
+-   ✅ Backup & restore database otomatis
+-   ✅ API RESTful untuk integrasi
+-   ✅ Webhook support untuk external services
+-   ✅ Queue system untuk performance
+-   ✅ Cache optimization
+-   ✅ Error logging & monitoring
+-   ✅ Maintenance mode
+-   ✅ Database optimization tools
 
 ## 🛠️ Tech Stack
 
 ### Backend
-- **Laravel 12** - PHP Framework terdepan untuk web applications
-- **MySQL 8.0+** - Database relational dengan performance tinggi
-- **PHP 8.2+** - Server-side scripting dengan JIT compiler
-- **Redis** - Cache & session storage (optional)
+
+-   **Laravel 12** - PHP Framework terdepan untuk web applications
+-   **MySQL 8.0+** - Database relational dengan performance tinggi
+-   **PHP 8.2+** - Server-side scripting dengan JIT compiler
+-   **Redis** - Cache & session storage (optional)
 
 ### Frontend
-- **Tailwind CSS 3.0+** - Utility-first CSS framework
-- **Alpine.js 3.x** - Reactive JavaScript framework
-- **Material Icons** - Icon library dari Google
-- **Chart.js** - Library charting untuk analytics
+
+-   **Tailwind CSS 3.0+** - Utility-first CSS framework
+-   **Alpine.js 3.x** - Reactive JavaScript framework
+-   **Material Icons** - Icon library dari Google
+-   **Chart.js** - Library charting untuk analytics
 
 ### Tools & Libraries
-- **Composer** - PHP dependency manager
-- **NPM/Yarn** - Node.js package manager
-- **Vite** - Next-generation build tool
-- **DomPDF** - PDF generation library
-- **Midtrans** - Payment gateway Indonesia
-- **Laravel Sanctum** - API authentication
-- **Laravel Horizon** - Queue monitoring (optional)
-- **Laravel Telescope** - Debugging & monitoring (dev)
+
+-   **Composer** - PHP dependency manager
+-   **NPM/Yarn** - Node.js package manager
+-   **Vite** - Next-generation build tool
+-   **DomPDF** - PDF generation library
+-   **Midtrans** - Payment gateway Indonesia
+-   **Laravel Sanctum** - API authentication
+-   **Laravel Horizon** - Queue monitoring (optional)
+-   **Laravel Telescope** - Debugging & monitoring (dev)
 
 ## 📋 Prerequisites
 
 Sebelum menjalankan aplikasi ini, pastikan Anda memiliki:
 
 ### Sistem Requirements
-- ✅ **PHP 8.2 atau lebih tinggi** (8.3 recommended)
-- ✅ **Composer 2.x** - PHP dependency manager
-- ✅ **Node.js 18+ & NPM 9+** - JavaScript runtime
-- ✅ **MySQL 8.0+ atau MariaDB 10.6+** - Database server
-- ✅ **Git 2.30+** - Version control
-- ✅ **Web Server** - Apache/Nginx dengan mod_rewrite
+
+-   ✅ **PHP 8.2 atau lebih tinggi** (8.3 recommended)
+-   ✅ **Composer 2.x** - PHP dependency manager
+-   ✅ **Node.js 18+ & NPM 9+** - JavaScript runtime
+-   ✅ **MySQL 8.0+ atau MariaDB 10.6+** - Database server
+-   ✅ **Git 2.30+** - Version control
+-   ✅ **Web Server** - Apache/Nginx dengan mod_rewrite
 
 ### Hardware Requirements
-- **Minimum**: 2GB RAM, 1GB Storage, 1 CPU Core
-- **Recommended**: 4GB RAM, 10GB Storage, 2 CPU Cores
-- **Production**: 8GB+ RAM, 50GB+ Storage, 4+ CPU Cores
+
+-   **Minimum**: 2GB RAM, 1GB Storage, 1 CPU Core
+-   **Recommended**: 4GB RAM, 10GB Storage, 2 CPU Cores
+-   **Production**: 8GB+ RAM, 50GB+ Storage, 4+ CPU Cores
 
 ### Browser Support
-- ✅ Chrome 90+
-- ✅ Firefox 88+
-- ✅ Safari 14+
-- ✅ Edge 90+
-- ✅ Mobile browsers (iOS Safari, Chrome Mobile)
+
+-   ✅ Chrome 90+
+-   ✅ Firefox 88+
+-   ✅ Safari 14+
+-   ✅ Edge 90+
+-   ✅ Mobile browsers (iOS Safari, Chrome Mobile)
 
 ## 🚀 Instalasi & Setup
 
 ### 1. Clone Repository
+
 ```bash
 git clone https://github.com/muris11/Pos-UMKM-Laravel-12.git
 cd Pos-UMKM-Laravel-12
 ```
 
 ### 2. Install PHP Dependencies
+
 ```bash
 composer install --no-dev --optimize-autoloader
 ```
 
 ### 3. Install Node.js Dependencies
+
 ```bash
 npm install --production=false
 ```
 
 ### 4. Environment Setup
+
 ```bash
 # Copy environment file
 cp .env.example .env
@@ -172,6 +190,7 @@ php artisan jwt:secret
 ```
 
 ### 5. Database Setup
+
 ```bash
 # Buat database di MySQL
 mysql -u root -p
@@ -194,6 +213,7 @@ php artisan db:seed
 ```
 
 ### 6. Storage Setup
+
 ```bash
 # Buat symbolic link untuk file uploads
 php artisan storage:link
@@ -204,6 +224,7 @@ chmod -R 755 bootstrap/cache/
 ```
 
 ### 7. Build Assets
+
 ```bash
 # Development
 npm run dev
@@ -216,6 +237,7 @@ npm run watch
 ```
 
 ### 8. Cache Optimization
+
 ```bash
 # Cache konfigurasi untuk performance
 php artisan config:cache
@@ -230,6 +252,7 @@ php artisan view:clear
 ```
 
 ### 9. Jalankan Aplikasi
+
 ```bash
 # Development server
 php artisan serve
@@ -247,13 +270,14 @@ Aplikasi akan berjalan di `http://localhost:8000`
 
 Setelah seeding database, Anda dapat login dengan akun berikut:
 
-| Role    | Email          | Password | Permissions |
-|---------|----------------|----------|-------------|
-| Owner   | owner@demo     | demo123  | Full access |
-| Manager | manager@demo   | demo123  | Manage store, products, reports |
-| Cashier | cashier@demo   | demo123  | POS, customers, basic reports |
+| Role    | Email        | Password | Permissions                     |
+| ------- | ------------ | -------- | ------------------------------- |
+| Owner   | owner@demo   | demo123  | Full access                     |
+| Manager | manager@demo | demo123  | Manage store, products, reports |
+| Cashier | cashier@demo | demo123  | POS, customers, basic reports   |
 
 ### Membuat User Baru
+
 ```bash
 # Via artisan command
 php artisan tinker
@@ -406,24 +430,24 @@ module.exports = {
         extend: {
             colors: {
                 primary: {
-                    50: '#eff6ff',
-                    500: '#3b82f6',
-                    600: '#2563eb',
-                    700: '#1d4ed8',
-                }
+                    50: "#eff6ff",
+                    500: "#3b82f6",
+                    600: "#2563eb",
+                    700: "#1d4ed8",
+                },
             },
             animation: {
-                'fade-in': 'fadeIn 0.5s ease-out',
-                'slide-in': 'slideIn 0.3s ease-out',
-                'bounce-slow': 'bounce 2s infinite',
-            }
+                "fade-in": "fadeIn 0.5s ease-out",
+                "slide-in": "slideIn 0.3s ease-out",
+                "bounce-slow": "bounce 2s infinite",
+            },
         },
     },
     plugins: [
-        require('@tailwindcss/forms'),
-        require('@tailwindcss/typography'),
+        require("@tailwindcss/forms"),
+        require("@tailwindcss/typography"),
     ],
-}
+};
 ```
 
 ### Vite Configuration
@@ -431,16 +455,13 @@ module.exports = {
 File `vite.config.js` untuk asset building:
 
 ```javascript
-import { defineConfig } from 'vite';
-import laravel from 'laravel-vite-plugin';
+import { defineConfig } from "vite";
+import laravel from "laravel-vite-plugin";
 
 export default defineConfig({
     plugins: [
         laravel({
-            input: [
-                'resources/css/app.css',
-                'resources/js/app.js',
-            ],
+            input: ["resources/css/app.css", "resources/js/app.js"],
             refresh: true,
         }),
     ],
@@ -448,11 +469,11 @@ export default defineConfig({
         rollupOptions: {
             output: {
                 manualChunks: {
-                    vendor: ['alpinejs'],
-                }
-            }
-        }
-    }
+                    vendor: ["alpinejs"],
+                },
+            },
+        },
+    },
 });
 ```
 
@@ -461,97 +482,106 @@ export default defineConfig({
 ### Tabel Utama:
 
 #### **users**
-- `id` - Primary key
-- `name` - Nama lengkap
-- `email` - Email unik
-- `password` - Password hash
-- `role` - Role (owner/manager/cashier)
-- `email_verified_at` - Timestamp verifikasi
-- `created_at`, `updated_at` - Timestamps
+
+-   `id` - Primary key
+-   `name` - Nama lengkap
+-   `email` - Email unik
+-   `password` - Password hash
+-   `role` - Role (owner/manager/cashier)
+-   `email_verified_at` - Timestamp verifikasi
+-   `created_at`, `updated_at` - Timestamps
 
 #### **stores**
-- `id` - Primary key
-- `name` - Nama toko
-- `address` - Alamat lengkap
-- `phone` - Nomor telepon
-- `email` - Email toko
-- `is_active` - Status aktif
-- `created_at`, `updated_at` - Timestamps
+
+-   `id` - Primary key
+-   `name` - Nama toko
+-   `address` - Alamat lengkap
+-   `phone` - Nomor telepon
+-   `email` - Email toko
+-   `is_active` - Status aktif
+-   `created_at`, `updated_at` - Timestamps
 
 #### **products**
-- `id` - Primary key
-- `name` - Nama produk
-- `description` - Deskripsi
-- `sku` - Stock Keeping Unit
-- `barcode` - Kode barcode
-- `price` - Harga jual
-- `cost_price` - Harga beli
-- `stock_quantity` - Jumlah stok
-- `min_stock` - Minimum stok
-- `category_id` - Foreign key ke categories
-- `store_id` - Foreign key ke stores
-- `image` - Path gambar
-- `is_active` - Status aktif
+
+-   `id` - Primary key
+-   `name` - Nama produk
+-   `description` - Deskripsi
+-   `sku` - Stock Keeping Unit
+-   `barcode` - Kode barcode
+-   `price` - Harga jual
+-   `cost_price` - Harga beli
+-   `stock_quantity` - Jumlah stok
+-   `min_stock` - Minimum stok
+-   `category_id` - Foreign key ke categories
+-   `store_id` - Foreign key ke stores
+-   `image` - Path gambar
+-   `is_active` - Status aktif
 
 #### **categories**
-- `id` - Primary key
-- `name` - Nama kategori
-- `description` - Deskripsi
-- `parent_id` - Parent category (nullable)
-- `image` - Icon kategori
-- `sort_order` - Urutan tampil
+
+-   `id` - Primary key
+-   `name` - Nama kategori
+-   `description` - Deskripsi
+-   `parent_id` - Parent category (nullable)
+-   `image` - Icon kategori
+-   `sort_order` - Urutan tampil
 
 #### **customers**
-- `id` - Primary key
-- `name` - Nama pelanggan
-- `email` - Email
-- `phone` - Nomor telepon
-- `address` - Alamat
-- `points` - Poin loyalitas
-- `total_spent` - Total pembelian
-- `last_visit` - Kunjungan terakhir
-- `birth_date` - Tanggal lahir
+
+-   `id` - Primary key
+-   `name` - Nama pelanggan
+-   `email` - Email
+-   `phone` - Nomor telepon
+-   `address` - Alamat
+-   `points` - Poin loyalitas
+-   `total_spent` - Total pembelian
+-   `last_visit` - Kunjungan terakhir
+-   `birth_date` - Tanggal lahir
 
 #### **sales**
-- `id` - Primary key
-- `invoice_number` - Nomor invoice unik
-- `customer_id` - Foreign key ke customers
-- `store_id` - Foreign key ke stores
-- `user_id` - Foreign key ke users (kasir)
-- `total_amount` - Total penjualan
-- `discount_amount` - Total diskon
-- `tax_amount` - Total pajak
-- `payment_method` - Metode pembayaran
-- `status` - Status transaksi
-- `created_at`, `updated_at` - Timestamps
+
+-   `id` - Primary key
+-   `invoice_number` - Nomor invoice unik
+-   `customer_id` - Foreign key ke customers
+-   `store_id` - Foreign key ke stores
+-   `user_id` - Foreign key ke users (kasir)
+-   `total_amount` - Total penjualan
+-   `discount_amount` - Total diskon
+-   `tax_amount` - Total pajak
+-   `payment_method` - Metode pembayaran
+-   `status` - Status transaksi
+-   `created_at`, `updated_at` - Timestamps
 
 #### **sale_items**
-- `id` - Primary key
-- `sale_id` - Foreign key ke sales
-- `product_id` - Foreign key ke products
-- `quantity` - Jumlah item
-- `unit_price` - Harga per unit
-- `discount` - Diskon per item
-- `total` - Total per item
+
+-   `id` - Primary key
+-   `sale_id` - Foreign key ke sales
+-   `product_id` - Foreign key ke products
+-   `quantity` - Jumlah item
+-   `unit_price` - Harga per unit
+-   `discount` - Diskon per item
+-   `total` - Total per item
 
 #### **suppliers**
-- `id` - Primary key
-- `name` - Nama supplier
-- `contact_person` - PIC
-- `email` - Email
-- `phone` - Telepon
-- `address` - Alamat
-- `payment_terms` - Syarat pembayaran
+
+-   `id` - Primary key
+-   `name` - Nama supplier
+-   `contact_person` - PIC
+-   `email` - Email
+-   `phone` - Telepon
+-   `address` - Alamat
+-   `payment_terms` - Syarat pembayaran
 
 #### **purchase_orders**
-- `id` - Primary key
-- `supplier_id` - Foreign key ke suppliers
-- `store_id` - Foreign key ke stores
-- `user_id` - Foreign key ke users
-- `total_amount` - Total pembelian
-- `status` - Status PO
-- `expected_date` - Tanggal expected
-- `received_date` - Tanggal diterima
+
+-   `id` - Primary key
+-   `supplier_id` - Foreign key ke suppliers
+-   `store_id` - Foreign key ke stores
+-   `user_id` - Foreign key ke users
+-   `total_amount` - Total pembelian
+-   `status` - Status PO
+-   `expected_date` - Tanggal expected
+-   `received_date` - Tanggal diterima
 
 ## 🔗 API Documentation
 
@@ -621,6 +651,7 @@ POST /api/sales
 ## 🧪 Testing
 
 ### Menjalankan Tests
+
 ```bash
 # Jalankan semua tests
 php artisan test
@@ -636,6 +667,7 @@ php artisan test --parallel
 ```
 
 ### Test Structure
+
 ```
 tests/
 ├── Feature/
@@ -651,6 +683,7 @@ tests/
 ```
 
 ### Membuat Test Baru
+
 ```bash
 # Generate feature test
 php artisan make:test ProductTest
@@ -662,6 +695,7 @@ php artisan make:test ProductModelTest --unit
 ## 📦 Deployment
 
 ### Development Deployment
+
 ```bash
 # Quick deploy untuk development
 composer install
@@ -673,6 +707,7 @@ php artisan serve
 ### Production Deployment
 
 #### 1. Server Preparation
+
 ```bash
 # Update system
 sudo apt update && sudo apt upgrade
@@ -690,6 +725,7 @@ sudo mysql_secure_installation
 ```
 
 #### 2. Application Deployment
+
 ```bash
 # Clone repository
 git clone https://github.com/muris11/Pos-UMKM-Laravel-12.git /var/www/pos-umkm
@@ -720,6 +756,7 @@ php artisan view:cache
 #### 3. Web Server Configuration
 
 **Nginx Configuration:**
+
 ```nginx
 server {
     listen 80;
@@ -745,6 +782,7 @@ server {
 ```
 
 **Apache Configuration (.htaccess sudah tersedia):**
+
 ```apache
 <VirtualHost *:80>
     ServerName your-domain.com
@@ -758,6 +796,7 @@ server {
 ```
 
 #### 4. SSL Setup (Let's Encrypt)
+
 ```bash
 # Install Certbot
 sudo apt install certbot python3-certbot-nginx
@@ -767,6 +806,7 @@ sudo certbot --nginx -d your-domain.com
 ```
 
 #### 5. Process Management
+
 ```bash
 # Install Supervisor untuk queue workers
 sudo apt install supervisor
@@ -776,6 +816,7 @@ sudo nano /etc/supervisor/conf.d/pos-umkm-worker.conf
 ```
 
 **Supervisor Configuration:**
+
 ```ini
 [program:pos-umkm-worker]
 process_name=%(program_name)s_%(process_num)02d
@@ -790,6 +831,7 @@ stdout_logfile=/var/www/pos-umkm/storage/logs/worker.log
 ```
 
 #### 6. Cron Jobs
+
 ```bash
 # Edit crontab
 sudo crontab -e
@@ -799,12 +841,14 @@ sudo crontab -e
 ```
 
 #### 7. Backup Setup
+
 ```bash
 # Buat script backup
 sudo nano /usr/local/bin/backup-pos-umkm.sh
 ```
 
 **Backup Script:**
+
 ```bash
 #!/bin/bash
 DATE=$(date +%Y%m%d_%H%M%S)
@@ -826,12 +870,14 @@ find $BACKUP_DIR -name "*.tar.gz" -mtime +7 -delete
 ```
 
 #### 8. Monitoring & Logs
+
 ```bash
 # Setup log rotation
 sudo nano /etc/logrotate.d/pos-umkm
 ```
 
 **Logrotate Configuration:**
+
 ```
 /var/www/pos-umkm/storage/logs/*.log {
     daily
@@ -846,28 +892,32 @@ sudo nano /etc/logrotate.d/pos-umkm
 ## 🔒 Security Considerations
 
 ### Authentication & Authorization
-- ✅ Password hashing dengan bcrypt
-- ✅ Rate limiting pada login attempts
-- ✅ Session security dengan secure cookies
-- ✅ CSRF protection pada semua forms
-- ✅ Role-based access control (RBAC)
+
+-   ✅ Password hashing dengan bcrypt
+-   ✅ Rate limiting pada login attempts
+-   ✅ Session security dengan secure cookies
+-   ✅ CSRF protection pada semua forms
+-   ✅ Role-based access control (RBAC)
 
 ### Data Protection
-- ✅ SQL injection prevention dengan Eloquent ORM
-- ✅ XSS protection dengan blade templating
-- ✅ Input validation dengan Form Requests
-- ✅ File upload validation & sanitization
+
+-   ✅ SQL injection prevention dengan Eloquent ORM
+-   ✅ XSS protection dengan blade templating
+-   ✅ Input validation dengan Form Requests
+-   ✅ File upload validation & sanitization
 
 ### Production Security
-- ✅ APP_DEBUG=false di production
-- ✅ Secure headers dengan middleware
-- ✅ HTTPS enforcement
-- ✅ Database credentials encryption
-- ✅ Regular security updates
+
+-   ✅ APP_DEBUG=false di production
+-   ✅ Secure headers dengan middleware
+-   ✅ HTTPS enforcement
+-   ✅ Database credentials encryption
+-   ✅ Regular security updates
 
 ## ⚡ Performance Optimization
 
 ### Database Optimization
+
 ```bash
 # Add indexes untuk query performance
 php artisan tinker
@@ -876,6 +926,7 @@ php artisan tinker
 ```
 
 ### Caching Strategy
+
 ```bash
 # Cache konfigurasi
 php artisan config:cache
@@ -889,6 +940,7 @@ Cache::remember('categories', 3600, function () {
 ```
 
 ### Queue Optimization
+
 ```bash
 # Jalankan queue worker
 php artisan queue:work --tries=3 --timeout=90
@@ -899,6 +951,7 @@ php artisan queue:retry all
 ```
 
 ### Asset Optimization
+
 ```bash
 # Build optimized assets
 npm run build
@@ -912,6 +965,7 @@ npm run build
 ### Common Issues
 
 #### 1. Blank Page / 500 Error
+
 ```bash
 # Check logs
 tail -f storage/logs/laravel.log
@@ -924,6 +978,7 @@ php artisan view:clear
 ```
 
 #### 2. Database Connection Error
+
 ```bash
 # Check .env configuration
 php artisan tinker
@@ -934,6 +989,7 @@ php artisan migrate:status
 ```
 
 #### 3. Permission Issues
+
 ```bash
 # Fix storage permissions
 chmod -R 755 storage/
@@ -943,6 +999,7 @@ chown -R www-data:www-data bootstrap/cache/
 ```
 
 #### 4. Asset Not Loading
+
 ```bash
 # Rebuild assets
 npm run build
@@ -953,6 +1010,7 @@ npm run dev
 ```
 
 #### 5. Queue Not Working
+
 ```bash
 # Check queue status
 php artisan queue:failed
@@ -965,6 +1023,7 @@ sudo supervisorctl status
 ```
 
 ### Debug Mode
+
 ```bash
 # Enable debug mode temporarily
 php artisan tinker
@@ -977,6 +1036,7 @@ php artisan about
 ## 📈 Development Workflow
 
 ### Git Workflow
+
 ```bash
 # Development branch
 git checkout -b feature/new-feature
@@ -993,6 +1053,7 @@ git push origin feature/new-feature
 ```
 
 ### Code Standards
+
 ```bash
 # Run PHP CS Fixer
 ./vendor/bin/php-cs-fixer fix
@@ -1005,6 +1066,7 @@ php artisan test
 ```
 
 ### Pre-commit Hooks
+
 ```bash
 # Install pre-commit hooks
 composer run prepare
@@ -1018,46 +1080,52 @@ composer run prepare
 ## 📋 Changelog
 
 ### Version 1.0.0 (Current)
-- ✅ Initial release dengan fitur lengkap POS
-- ✅ Multi-store management
-- ✅ Customer loyalty system
-- ✅ Real-time inventory
-- ✅ Modern UI dengan dark mode
-- ✅ API RESTful
-- ✅ Comprehensive reporting
+
+-   ✅ Initial release dengan fitur lengkap POS
+-   ✅ Multi-store management
+-   ✅ Customer loyalty system
+-   ✅ Real-time inventory
+-   ✅ Modern UI dengan dark mode
+-   ✅ API RESTful
+-   ✅ Comprehensive reporting
 
 ### Upcoming Features
-- 🔄 Mobile app (React Native)
-- 🔄 Advanced analytics dashboard
-- 🔄 Multi-currency support
-- 🔄 Integration dengan e-commerce platforms
-- 🔄 AI-powered inventory prediction
+
+-   🔄 Mobile app (React Native)
+-   🔄 Advanced analytics dashboard
+-   🔄 Multi-currency support
+-   🔄 Integration dengan e-commerce platforms
+-   🔄 AI-powered inventory prediction
 
 ## 🗺️ Roadmap
 
 ### Phase 1 (Current) - Core POS System ✅
-- Basic POS functionality
-- User management
-- Product management
-- Sales tracking
+
+-   Basic POS functionality
+-   User management
+-   Product management
+-   Sales tracking
 
 ### Phase 2 (Next) - Advanced Features 🔄
-- Mobile POS app
-- Advanced reporting
-- API integrations
-- Multi-language support
+
+-   Mobile POS app
+-   Advanced reporting
+-   API integrations
+-   Multi-language support
 
 ### Phase 3 (Future) - Enterprise Features 📅
-- Multi-company support
-- Advanced analytics
-- AI/ML features
-- IoT device integration
+
+-   Multi-company support
+-   Advanced analytics
+-   AI/ML features
+-   IoT device integration
 
 ## 🤝 Contributing
 
 Kami sangat menghargai kontribusi dari komunitas! Berikut adalah panduan untuk berkontribusi:
 
 ### 1. Fork & Clone
+
 ```bash
 git clone https://github.com/your-username/Pos-UMKM-Laravel-12.git
 cd Pos-UMKM-Laravel-12
@@ -1065,6 +1133,7 @@ git remote add upstream https://github.com/muris11/Pos-UMKM-Laravel-12.git
 ```
 
 ### 2. Development Setup
+
 ```bash
 composer install
 npm install
@@ -1075,18 +1144,21 @@ npm run dev
 ```
 
 ### 3. Create Feature Branch
+
 ```bash
 git checkout -b feature/amazing-feature
 ```
 
 ### 4. Development Guidelines
-- ✅ Follow PSR-12 coding standards
-- ✅ Write tests untuk fitur baru
-- ✅ Update documentation
-- ✅ Commit messages yang jelas
-- ✅ Code review sebelum merge
+
+-   ✅ Follow PSR-12 coding standards
+-   ✅ Write tests untuk fitur baru
+-   ✅ Update documentation
+-   ✅ Commit messages yang jelas
+-   ✅ Code review sebelum merge
 
 ### 5. Pull Request Process
+
 1. Update branch dengan main
 2. Pastikan semua tests pass
 3. Update CHANGELOG.md jika perlu
@@ -1100,33 +1172,36 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 📞 Support & Community
 
 ### Getting Help
+
 1. **📖 Documentation**: [docs.pos-umkm.com](https://docs.pos-umkm.com)
 2. **🐛 Issues**: [GitHub Issues](https://github.com/muris11/Pos-UMKM-Laravel-12/issues)
 3. **💬 Discussions**: [GitHub Discussions](https://github.com/muris11/Pos-UMKM-Laravel-12/discussions)
 4. **📧 Email**: support@pos-umkm.com
 
 ### Community
-- **🌐 Website**: [pos-umkm.com](https://pos-umkm.com)
-- **📘 Facebook**: [fb.com/posumkm](https://fb.com/posumkm)
-- **📱 Instagram**: [@pos_umkm](https://instagram.com/pos_umkm)
-- **🐦 Twitter**: [@pos_umkm](https://twitter.com/pos_umkm)
+
+-   **🌐 Website**: [pos-umkm.com](https://pos-umkm.com)
+-   **📘 Facebook**: [fb.com/posumkm](https://fb.com/posumkm)
+-   **📱 Instagram**: [@pos_umkm](https://instagram.com/pos_umkm)
+-   **🐦 Twitter**: [@pos_umkm](https://twitter.com/pos_umkm)
 
 ## 🙏 Acknowledgments
 
 Terima kasih kepada:
 
-- **Laravel Community** - Framework luar biasa
-- **Tailwind CSS Team** - CSS framework modern
-- **Alpine.js** - JavaScript framework ringan
-- **Material Design** - Design system konsisten
-- **Open Source Community** - Libraries & tools
-- **UMKM Indonesia** - Inspirasi & purpose
+-   **Laravel Community** - Framework luar biasa
+-   **Tailwind CSS Team** - CSS framework modern
+-   **Alpine.js** - JavaScript framework ringan
+-   **Material Design** - Design system konsisten
+-   **Open Source Community** - Libraries & tools
+-   **UMKM Indonesia** - Inspirasi & purpose
 
 ### Special Thanks
-- **Taylor Otwell** - Laravel creator
-- **Adam Wathan** - Tailwind CSS creator
-- **Caleb Porzio** - Alpine.js creator
-- **All Contributors** - Yang telah berkontribusi
+
+-   **Taylor Otwell** - Laravel creator
+-   **Adam Wathan** - Tailwind CSS creator
+-   **Caleb Porzio** - Alpine.js creator
+-   **All Contributors** - Yang telah berkontribusi
 
 ---
 
@@ -1144,8 +1219,9 @@ php artisan serve
 ```
 
 Kunjungi `http://localhost:8000` dan login dengan:
-- **Email**: `owner@demo`
-- **Password**: `demo123`
+
+-   **Email**: `owner@demo`
+-   **Password**: `demo123`
 
 ---
 
@@ -1165,7 +1241,6 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 #   P o s - U M K M - L a r a v e l - 1 2 
-
 
 ## ✨ Fitur Utama
 
